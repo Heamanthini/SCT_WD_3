@@ -1,10 +1,22 @@
-# 🎮 Tic Tac Toe Game (Interactive Web Version)
+# 🎮 Tic-Tac-Toe Game (HTML, CSS, JS)
 
-This project is a **web-based Tic Tac Toe game** built with **HTML, CSS, and JavaScript**. It features interactive gameplay, sound effects, winning animations, and a reset functionality.
+A simple and fun Tic-Tac-Toe game built with **HTML**, **CSS**, and **JavaScript**.  
+This project features:
+- 🔊 **Sound effects** for moves and winning
+- 🎉 **Confetti animation** when a player wins
+- 📱 **Responsive design** for mobile and desktop
+- 🎨 Styled UI with Google Fonts
 
 ---
 
-## 📂 Project Structure
+## 🚀 **Live Demo**
+👉 [Click Here to Play](https://your-live-demo-link.com)  
+(*You can host it for free on GitHub Pages, Netlify, or Vercel – see instructions below.*)
+
+---
+
+## 📂 **Project Structure**
+
 
 ---
 
